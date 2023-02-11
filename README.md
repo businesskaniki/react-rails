@@ -189,8 +189,9 @@ Contributions, issues, and feature requests are welcome!
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
